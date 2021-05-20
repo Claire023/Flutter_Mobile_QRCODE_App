@@ -1,4 +1,4 @@
-# mspr
+# QR Code Flutter Mobile App
 
 A new Flutter project.
 
